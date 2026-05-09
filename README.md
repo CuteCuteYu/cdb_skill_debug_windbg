@@ -112,7 +112,7 @@ $cdbArm = "C:\Users\YourName\AppData\Local\Microsoft\WindowsApps\cdbARM64.exe"
 1. 克隆或下载本项目到本地
 
 ```powershell
-git clone https://github.com/yourusername/cdb_skill_debug_windbg.git
+git clone https://github.com/CuteCuteYu/cdb_skill_debug_windbg.git
 cd cdb_skill_debug_windbg
 ```
 
